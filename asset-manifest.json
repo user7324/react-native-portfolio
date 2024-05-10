@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-native-portfolio/static/css/main.f424c35b.css",
+    "main.js": "/react-native-portfolio/static/js/main.72dae242.js",
+    "index.html": "/react-native-portfolio/index.html",
+    "main.f424c35b.css.map": "/react-native-portfolio/static/css/main.f424c35b.css.map",
+    "main.72dae242.js.map": "/react-native-portfolio/static/js/main.72dae242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f424c35b.css",
+    "static/js/main.72dae242.js"
+  ]
+}
