@@ -101,7 +101,7 @@ export default function MyPortfolio() {
         {data?.portfolio?.map((item, index, array) => (
           <div key={index} className={`portfolio--section--card ${index === array.length - 1 ? 'last-item' : ''}`} onClick={() => toggleExpanded(index)}>
             <div className="portfolio--section--img">
-              <img src={item.cardSrc} alt="Placeholder" />
+              <img src={item.cardSrc} alt="portfolio-project" />
             </div>
             <div className="portfolio--section--card--content">
               <div>

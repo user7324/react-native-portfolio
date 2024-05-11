@@ -47,6 +47,7 @@
       "src2": "./img/quiz2.jpeg",
       "src3": "./img/quiz3.jpeg",
       "src4": "./img/quiz.gif",
+      "src5": "./img/quiz2.gif",
       "title": "Quizzical",
       "description": "Made with the Open Trivia Database api"
     },
