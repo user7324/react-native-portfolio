@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-native-portfolio/static/css/main.f424c35b.css",
-    "main.js": "/react-native-portfolio/static/js/main.c84194f0.js",
+    "main.js": "/react-native-portfolio/static/js/main.b0f8274a.js",
     "index.html": "/react-native-portfolio/index.html",
     "main.f424c35b.css.map": "/react-native-portfolio/static/css/main.f424c35b.css.map",
-    "main.c84194f0.js.map": "/react-native-portfolio/static/js/main.c84194f0.js.map"
+    "main.b0f8274a.js.map": "/react-native-portfolio/static/js/main.b0f8274a.js.map"
   },
   "entrypoints": [
     "static/css/main.f424c35b.css",
-    "static/js/main.c84194f0.js"
+    "static/js/main.b0f8274a.js"
   ]
 }
